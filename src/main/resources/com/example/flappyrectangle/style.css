@@ -1,0 +1,5 @@
+#gameScreen {
+    -fx-background-image: url("assets/background.jpg");
+    -fx-background-size: cover;
+}
+
